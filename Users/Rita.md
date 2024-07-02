@@ -1,6 +1,7 @@
 # Rita's Learning Space
 
 ## Git notes
+test2
 
 ## Git Commands
 
@@ -11,3 +12,6 @@ git push: to update local to git
 git pull: to update local from git
 git branch: checks the existing branches
 git checkout: getting out of the branch
+
+
+test
